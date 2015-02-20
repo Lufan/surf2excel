@@ -1,0 +1,5 @@
+D:\Work\Surf2Excel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Surf2Excel\obj\x86\Debug\Surf2Excel.QueryForm.resources
+D:\Work\Surf2Excel\obj\x86\Debug\Surf2Excel.csproj.GenerateResource.Cache
+D:\Work\Surf2Excel\obj\x86\Debug\Surf2Excel.dll
+D:\Work\Surf2Excel\obj\x86\Debug\Surf2Excel.pdb
